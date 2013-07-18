@@ -1,0 +1,11 @@
+{
+  "name": "Diabetore",
+  "description": "Diabetore",
+  "launch_path": "/indexdiab2.html",
+  "orientation": ["portrait"],
+  "developer": {
+    "name": "Abhishek2k49",
+    "url": "http://buildingfirefoxos.com"
+  },
+  "default_locale": "en"
+}
