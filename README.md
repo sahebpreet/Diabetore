@@ -1,9 +1,8 @@
-Building-Blocks
-===============
+Diabetore
+==========
 
-Reusable components for Firefox OS
+A Firefox OS mobile application for monitoring blood sugar level for diabetic patients. The app also draws an interactive graph for the recorded readings.
 
-'style' and 'style_unastable' folders contain all Building Blocks from [gaia's repo](https://github.com/mozilla-b2g/gaia).
-Feel free to use them, although we are using the word 'unestable' :) 
+The app can be downloaded from [here](https://marketplace.firefox.com/app/diabetore/).
 
-These two folders are copied using subtree merge strategy, so basicaly you will be cloning the whole gaia, so when you clone it for the first time it will take a while to download. Updates will be much faster!
+Diabetore is created using Building-Blocks available in Firefox OS. More about Building-Blocks can be found [here](https://github.com/mozilla-b2g/gaia).
